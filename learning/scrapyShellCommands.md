@@ -7,7 +7,7 @@ scrapy startproject <project_name>
 
 ```
 
-#### Scafolds a project with the name project_name\*\*
+#### Scafolds a project with the name **project_name**
 
 - Create a spyder in the **project_name/spiders** folder
 - Run the spyder using:
